@@ -1,5 +1,5 @@
 # dyl-frontend
-# Angular Project Setup Guide
+# Angular Project Setup Guide.
 
 This guide provides step-by-step instructions for setting up an Angular project from scratch on an Ubuntu machine.
 
